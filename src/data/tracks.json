@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "/audio/pedro.jpg",
+        "title": "Pedro",
+        "artist": "Raffaella Carrà",
+        "duration": "2:03",
+        "src": "/audio/pedro.mp3"
+    },
+    {
+        "id": 2,
+        "image": "/audio/drake-toosie-slide.jpg",
+        "title": "Toosie Slide",
+        "artist": "Drake",
+        "duration": "4:08",
+        "src": "/audio/drake-toosie-slide.mp3"
+    },
+    {
+        "id": 3,
+        "image": "/audio/vkui-audio.png",
+        "title": "Трек",
+        "artist": "Исполнитель",
+        "duration": "3:23",
+        "src": "/audio/vkui-audio.mp3"
+    }
+]
